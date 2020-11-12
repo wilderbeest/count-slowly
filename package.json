@@ -1,0 +1,19 @@
+{
+  "name": "count-slowly",
+  "version": "0.1.0",
+  "description": "Make numbers go up or down, one at a time",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilderbeest/count-slowly.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilderbeest/count-slowly/issues"
+  },
+  "homepage": "https://github.com/wilderbeest/count-slowly#readme"
+}
