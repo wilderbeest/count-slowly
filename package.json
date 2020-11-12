@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Make numbers go up or down, one at a time",
   "main": "lib/index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wilderbeest/count-slowly/issues"
   },
-  "homepage": "https://github.com/wilderbeest/count-slowly#readme"
+  "homepage": "https://github.com/wilderbeest/count-slowly#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0"
+  }
 }
