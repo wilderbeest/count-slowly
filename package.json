@@ -1,6 +1,6 @@
 {
   "name": "count-slowly",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Make numbers go up or down, one at a time",
   "main": "lib/index.js",
   "type": "commonjs",
