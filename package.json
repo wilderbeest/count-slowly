@@ -5,8 +5,9 @@
   "main": "lib/index.js",
   "type": "commonjs",
   "scripts": {
+    "coverage": "npm test -- --coverage",
     "lint": "eslint .",
-    "test": "jest ."
+    "test": "jest"
   },
   "repository": {
     "type": "git",
