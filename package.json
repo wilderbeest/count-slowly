@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "type": "commonjs",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,10 @@
     "url": "https://github.com/wilderbeest/count-slowly/issues"
   },
   "homepage": "https://github.com/wilderbeest/count-slowly#readme",
+  "dependencies": {},
   "devDependencies": {
-    "eslint": "^7.13.0"
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
   }
 }
